@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-	font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 main {
@@ -19,32 +19,34 @@ main {
   background-color: #fff;
   padding: 20px 15px;
   border-radius: 15px;
-	text-align: center;
+  text-align: center;
 }
 
 img {
   width: 100%;
   height: 150px;
   background: grey;
-	border-radius: 10px;
+  border-radius: 10px;
 }
 
 h4 {
   margin: 10px 0;
-	font-size: 25px;
+  font-size: 25px;
 }
 
-p{
-	margin-bottom: 10px;
+p {
+  margin-bottom: 10px;
+  padding: 20px;
+  background-color: orangered;
 }
 
-a{
-	display: inline-block;
-	text-align: center;
-	padding: 10px 15px;
-	background-color: orangered;
-	text-decoration: none;
-	color: #fff;
-	font-weight: 600;
-	border-radius: 10px;
+a {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 15px;
+  background-color: orangered;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 10px;
 }
